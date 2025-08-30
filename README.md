@@ -2,7 +2,7 @@
 
 A full-stack ticketing system for IT support and customer service management.
 
-## Tech Stack
+## Tech Stack used here:
 
 ### Backend
 - **Java** with **Spring Boot**
